@@ -1,10 +1,13 @@
-👋 Hi, this is @KiraTeresa
+👋 Hi, this is Kira
 <br>
-I am new to programming and coding and all that stuff, but I am very eager to learn and to become better every day.
-My goal is to change careers and make coding my everyday job. Therefore, I am going to do a Web Development Bootcamp in order to learn everything from scratch.
+I started the Web Development Bootcamp at Ironhack in May 2022, in order to become a Fullstack Developer.
+Coming from a project management background, my goal is to change careers and make coding my everyday job.
 
-🌱 I’m currently learning ...
-<br>...HTML, CSS, JavaScript and nodeJS
+💻 My stack:
+<br>HTML, CSS, JavaScript, nodeJS, expressJS, mongoDB, mongoose
+
+🌱 Currently learning:
+<br>React 
 
 <!---
 KiraTeresa/KiraTeresa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
