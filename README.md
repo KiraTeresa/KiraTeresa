@@ -7,7 +7,7 @@ Coming from a project management background, my goal is to change careers and ma
 <br>JavaScript, mongoDB, expressJS, React, nodeJS, mongoose, HTML, CSS
 
 🌱 Currently learning:
-<br>always enhancing my skill set
+<br>Java, Spring Boot
 
 <!---
 KiraTeresa/KiraTeresa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
