@@ -4,10 +4,10 @@ My coding journey started with the Web Development Bootcamp at Ironhack in May 2
 I am currently working as a Software Developer (Trainee) in a company where I am able to deepen my skills as well as learn and grow every day.
 
 💻 My stack:
-<br>React, Next.js, nodeJS, JavaScript, mongoDB, expressJS, mongoose, HTML, CSS
+<br>React, Next.js, nodeJS, JavaScript, TypeScript, Cypress, mongoDB, expressJS, mongoose, HTML, CSS
 
 🌱 Currently learning:
-<br>Cypress, Java, Spring Boot
+<br>Angular
 
 <!---
 KiraTeresa/KiraTeresa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
