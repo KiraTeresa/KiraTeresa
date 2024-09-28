@@ -5,10 +5,11 @@ I was soon offered a trainee position as a software developer. After continuousl
 Since then I am working as a Software Developer, keep growing and stay curious.
 
 💻 My stack:
-<br>React, Next.js, Redux, Angular, RxJS, nodeJS, JavaScript, TypeScript, Cypress, mongoDB, expressJS, mongoose, HTML, CSS
+<br>React, Next.js, Redux, Angular, RxJS, nodeJS, JavaScript, TypeScript, Jest, Cypress, mongoDB, expressJS, mongoose, HTML, CSS
 
 🌱 Currently learning:
-<br>deepening my React and Next.js skills
+<br>diving into Go
+<br>continuously deepening my React and Next.js skills
 
 <!---
 KiraTeresa/KiraTeresa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
