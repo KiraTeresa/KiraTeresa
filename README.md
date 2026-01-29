@@ -2,10 +2,10 @@
 <br>
 My coding journey started with the Web Development Bootcamp at Ironhack in May 2022. During the following six months I learned all the skills needed, in order to become a Fullstack Developer.
 I was soon offered a trainee position as a software developer. After continuously deepening my knowledge, learning new skills and developing myself every day, I was able to leave the trainee position early.
-Since then I am working as a Software Developer, keep growing and stay curious.
+Since then I am working as a Software Engineer, keep growing and stay curious.
 
 💻 My stack:
-<br>React, Next.js, Redux, Angular, RxJS, nodeJS, JavaScript, TypeScript, Jest, Cypress, mongoDB, expressJS, mongoose, HTML, CSS
+<br>React, Next.js, Redux, Angular, RxJS, nodeJS, JavaScript, TypeScript, Jest, Cypress, Playwright, mongoDB, expressJS, mongoose, HTML, CSS
 
 🌱 Currently learning:
 <br>diving into Go
